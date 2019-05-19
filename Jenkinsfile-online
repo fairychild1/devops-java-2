@@ -16,7 +16,7 @@ pipeline {
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'fairychild'
         GITHUB_ACCOUNT = 'fairychild1'
-        APP_NAME = 'devops-java-sample'
+        APP_NAME = 'devops-java-2'
         SONAR_CREDENTIAL_ID= 'sonar-token'
     }
 
